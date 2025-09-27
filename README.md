@@ -17,3 +17,5 @@ The ROM solver is an intrusive method. Hyperreduction with DEIM, NQE(nonlinear q
 
 ## 3. [Change Log](https://github.com/xukeyu-phy/Diffusion_Master_Equation/blob/main/CHANGELOG.md)
 Please read **CHANGELOG.md** for the latest updated.
+
+
