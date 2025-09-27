@@ -197,7 +197,7 @@ def plot_sv(s, energy, vare, trun_modes, save_filename):
 
 def main(load=True):    
 
-    hf_data_dir = main_dir / "data_temp_smallscale"  
+    hf_data_dir = main_dir / "dataset"  
     pod_dir = current_dir / "pod_result"
     pod_dir.mkdir(exist_ok=True)
 
