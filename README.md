@@ -7,8 +7,13 @@ This project simulates the 3D evolution of a quantum system using a finite diffe
 The ROM solver is an intrusive method. Hyperreduction with DEIM, NQE(nonlinear quadratic expansion).
 
 ## 2. Key Features
-- 3D non-uniform grid discretization
-- Runge-Kutta 2nd order time integration
-- Parallel GPU acceleration (CUDA supported)
-- Comprehensive visualization tools
-- Automatic simulation summary generation
+- FOM
+    - 3D non-uniform grid discretization
+    - Runge-Kutta 2nd order time integration
+    - Parallel GPU acceleration (CUDA supported)
+    - Comprehensive visualization tools
+- ROM! Accelaration!!!
+
+
+## 3. [Change Log](https://github.com/xukeyu-phy/Diffusion_Master_Equation/blob/main/CHANGELOG.md)
+Please read **CHANGELOG.md** for the latest updated.
