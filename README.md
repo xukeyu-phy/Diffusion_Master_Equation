@@ -19,3 +19,5 @@ The ROM solver is an intrusive method. Hyperreduction with DEIM, NQE(nonlinear q
 Please read **CHANGELOG.md** for the latest updated.
 
 
+## 4. Permission
+Please read the **license.txt**.
